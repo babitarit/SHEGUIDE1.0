@@ -26,6 +26,14 @@ SheGuide is a platform dedicated to providing guidance and mentorship to women i
 2. **Video Call Option:** Users can have video calls, enhancing the mentorship experience and providing a more personal touch.
 3. **Job Search:** The platform includes a job search feature, assisting women in finding suitable job opportunities.
 
+## Usage
+1. Mentorship Programs: Connects women with experienced mentors in their field for career guidance, skill development, and professional growth.
+2. Career Guidance: Offers personalized advice and resources for women pursuing careers in diverse sectors, including STEM, business, arts, and more.
+3. Ask Questions Anonymously: Feel comfortable discussing challenges and seeking advice in a secure, anonymous environment.
+4. Secure Platform: Ensures a safe online environment with end-to-end encryption to protect the privacy and data of its users.
+5. Job Board: Features a curated list of job openings from women-friendly employers committed to diversity and inclusion.
+
+
 ## Installation
 To run the project locally, follow these steps:
 
@@ -33,13 +41,6 @@ To run the project locally, follow these steps:
 2. Install dependencies: `npm install`
 3. Set up environment variables (refer to `.env.example`)
 4. Run the development server: `npm run dev`
-
-## Usage
-1. Mentorship Programs: Connects women with experienced mentors in their field for career guidance, skill development, and professional growth.
-2. Career Guidance: Offers personalized advice and resources for women pursuing careers in diverse sectors, including STEM, business, arts, and more.
-3. Secure Platform: Ensures a safe online environment with end-to-end encryption to protect the privacy and data of its users.
-4. Job Board: Features a curated list of job openings from women-friendly employers committed to diversity and inclusion.
-5. Ask Questions Anonymously: Feel comfortable discussing challenges and seeking advice in a secure, anonymous environment.
 
 ## Contributing
 We welcome contributions from everyone. If you'd like to contribute, please follow these steps:
